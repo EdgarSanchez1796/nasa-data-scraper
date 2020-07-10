@@ -1,5 +1,5 @@
 Tipo,planet,Img,mass,diameter,density,gravity,escape_velocity,rotation_period,length_of_day,distance_from_sun,perihelion,aphelion,orbital_period,orbital_velocity,orbital_inclination,orbital_eccentricity,obliquity_to_orbit,mean_temperature,surface_pressure,number_of_moons,has_ring_system,has_global_magnetic_field
-Rocoso,Mercury,https://es.wikipedia.org/wiki/Archivo:Mercury_in_color_-_Prockter07_centered.jpg,0.33,4879,5427,3.7,4.3,1407.6,4222.6,57.9,46,69.8,88,47.4,7,0.205,0.034,167,0,0,No,Yes
+Rocoso,Mercury,https://d1nglqw9e0mrau.cloudfront.net/assets/images/game/icons/weapon_awm-9adbb87b.png,0.33,4879,5427,3.7,4.3,1407.6,4222.6,57.9,46,69.8,88,47.4,7,0.205,0.034,167,0,0,No,Yes
 Rocoso,Venus,https://commons.wikimedia.org/wiki/File:Venus-real_color.jpg,4.87,12104,5243,8.9,10.4,-5832.5,2802,108.2,107.5,108.9,224.7,35,3.4,0.007,177.4,464,92,0,No,No
 Rocoso,Earth,https://es.wikipedia.org/wiki/Archivo:3D_Earth.png,5.97,12756,5514,9.8,11.2,23.9,24,149.6,147.1,152.1,365.2,29.8,0,0.017,23.4,15,1,1,No,Yes
 Rocoso,Mars,https://commons.wikimedia.org/wiki/File:Schiaparelli_Hemisphere_Enhanced.jpg,0.642,6792,3933,3.7,5,24.6,24.7,227.9,206.6,249.2,687,24.1,1.9,0.094,25.2,-65,0.01,2,No,No
